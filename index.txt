@@ -1,0 +1,139 @@
+Sarthak Verma Portfolio
+
+# sidebar
+
+alt = Sarthak Verma
+Sarthak Verma
+Game developer
+
+Show Contacts
+
+Email
+sarthakverma.relic@gmail.com
+
+Phone
++91-9458896455
+
+Birthday
+September 13, 2003
+
+Location
+Chandausi, Uttar Pradesh, India
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+ I'm Game Developer and Android Developer from Uttar Pradesh,India currently pursuing B.tech in Electronics and Communication Engineering from National Institute of Technology, Kurukshetra.
+            I enjoy turning complex problems into simple, beautiful and intuitive designs.
+
+I have used Unity for game development with C#, and know the fundamentels for 2D and 3D games. Moreover, I have a grasp of Blender for making 3D character designs and 3D environments.
+            Also, I know about Android Development with Kotlin.
+
+## service
+
+What i'm doing
+
+alt = Game development icon
+Game development
+High-quality development of games using c# and Unity.
+
+alt = Testing icon
+Game testing
+Skilled in testing developed games and pushing it to the limits..
+
+alt = Android development icon
+Android development
+Development of applications for Android using Kotlin.
+
+alt = gaming icon
+gaming
+I play games of any category at a professional level.
+
+
+
+
+
+# resume
+
+Resume
+
+Education
+
+Sacred Heart Convent School
+2013-2017
+10th Standard 
+
+R.R.K School of Chandausi
+2017 — 2019
+12th Standard
+
+High school of art and design
+Nov 2021 — present
+B.tech in Electronics and Communication Engineering
+
+
+My skills
+
+Unity
+70%
+C#
+80%
+Blender
+50%
+Kotlin
+70%
+C++
+80%
+JAVA
+70%
+Game Testing
+60%
+
+
+
+# portfolio
+
+Portfolio
+
+
+All
+
+alt = Plakin
+Plakin: Endless Runner
+Game development
+
+alt = orizon
+Last Stand: A Zombie Survival 
+Game development
+
+alt = Causal App
+Multiwork App
+Android development
+
+
+
+
+
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
